@@ -11,4 +11,4 @@ https://www.loom.com/share/057f3f557cc94ed4a56bcc885b1ebddf
 
 Slight modifications are needed to fit the script to your needs.
 
-Contact [Leo Ariel](mailto:leoariel440@gmail.com) for questions.
+Contact Leo Ariel ([email](mailto:leoariel440@gmail.com) for questions.
