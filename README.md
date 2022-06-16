@@ -1,6 +1,10 @@
 # Write of Passage Cohort 8 Database
 
-Extracts published articles from a webpage & puts them into an Airtable database.
+Extracts published articles from Circle & puts them into an Airtable database.
+
+## Demo
+
+https://www.loom.com/share/057f3f557cc94ed4a56bcc885b1ebddf
 
 ## Dependencies
 - [BeautifulSoup](https://beautiful-soup-4.readthedocs.io/)
